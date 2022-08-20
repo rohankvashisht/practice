@@ -14,4 +14,4 @@ LinkedIn: https://www.linkedin.com/in/rohan-837a80113
 
 CodeChef: https://www.codechef.com/users/rohankvashisht
 
-StackOverFlow: https://stackoverflow.com/users/4609706/rohankvashisht
+Stack OverFlow: https://stackoverflow.com/users/4609706/rohankvashisht
