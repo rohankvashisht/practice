@@ -1,10 +1,10 @@
 # Problem Name : Problem Category
 
 """
-Problem Statement :
+Problem Statement:
 Chef prepared a problem. The admin has rated this problem for xxx points.
 
-A problem is called :
+A problem is called:
 
 a. Easy if 1 ≤ x < 100
 
@@ -14,16 +14,16 @@ c. Hard if 200 ≤ x ≤ 300
 
 Find the category to which Chef's problem belongs.
 
-Input :
+Input:
 
 a. The first line contains TTT denoting the number of test cases. Then the test cases follow.
 b. The first and only line of each test case contains a single integer xxx.
 
 
-Output :
+Output:
 For each test case, output in a single line the category of Chef's problem, i.e whether it is an Easy, Medium or Hard problem. The output is case sensitive.
 
-Constraints :
+Constraints:
 1 ≤ T ≤ 50
 1 ≤ x ≤ 300
 
