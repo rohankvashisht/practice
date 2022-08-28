@@ -24,8 +24,8 @@ Output:
 For each test case, output in a single line the category of Chef's problem, i.e whether it is an Easy, Medium or Hard problem. The output is case sensitive.
 
 Constraints:
-1 ≤ T ≤ 50
-1 ≤ x ≤ 300
+a. 1 ≤ T ≤ 50
+b. 1 ≤ x ≤ 300
 
 Sample Input:
 3
