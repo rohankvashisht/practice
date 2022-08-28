@@ -15,7 +15,7 @@ Output:
 Output the account balance after the attempted transaction, given as a number with two digits of precision. If there is not enough money in the account to complete the transaction, output the current bank balance.
 
 Constraints:
-0 ≤ n ≤ 105
+a. 0 ≤ n ≤ 105
 
 Sample Input:
 30 120.00
