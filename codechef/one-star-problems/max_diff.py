@@ -44,7 +44,7 @@ Test Case 3: The possible pairs of {T1,T2} are {1,2} and {2,1}. Difference in bo
 
 # cook your dish here
 
-# read the number of test cases.
+# read the number of test cases
 test_cases = int(input())
 
 for test_case in range(test_cases):
