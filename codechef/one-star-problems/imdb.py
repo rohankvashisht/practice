@@ -41,7 +41,7 @@ Example Case 1: Since there is only 111 movie available and requires space equiv
 
 Example Case 2: Since out of the 2 available movies, both can fit in the free memory, we only care to take the one with higher rating, i.e, rating of max(50,100) = 100.
 
-Test Case 3: Since out of the 3 available movies, only the first and the last movies fit in the free memory, we only care to take the one with higher rating amongst these 2, i.e, rating of max(51,50) = 51.
+Example Case 3: Since out of the 3 available movies, only the first and the last movies fit in the free memory, we only care to take the one with higher rating amongst these 2, i.e, rating of max(51,50) = 51.
 """
 
 # cook your dish here
