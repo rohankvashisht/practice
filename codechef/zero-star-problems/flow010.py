@@ -32,7 +32,7 @@ Destroyer
 
 # cook your dish here
 
-# read the number of test cases.
+# read the number of test cases
 test_cases = int(input())
 
 for test_case in range(test_cases):
