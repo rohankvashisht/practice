@@ -26,7 +26,7 @@ Sample Input 1:
 4444 5555 6666 
 8 8 12
 
-Sample Output 2:
+Sample Output 1:
 Take second dose now
 Too Late
 Too Early
@@ -42,7 +42,7 @@ Test Case 3: The second dose needs to be taken within 5555 to 6666 days and sinc
 
 # cook your dish here
 
-# read the number of test cases.
+# read the number of test cases
 test_cases = int(input())
 
 for test_case in range(test_cases):
