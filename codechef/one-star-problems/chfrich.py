@@ -44,7 +44,7 @@ Test Case 3: Chef needs to increase his worth by 200 - 190 = 10 billion dollars 
 
 # cook your dish here
 
-# read the number of test cases.
+# read the number of test cases
 test_cases = int(input())
 
 for test_case in range(test_cases):
