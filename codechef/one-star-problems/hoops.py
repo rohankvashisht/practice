@@ -41,7 +41,7 @@ test_cases = int(input())
 
 for test_case in range(test_cases):
   
-  # total number of hoops in a row (provided it is odd)
+  # total number of hoops in a row (provided it is a odd number)
   length_of_hoops = int(input())
   
   # print the middle hoop number
