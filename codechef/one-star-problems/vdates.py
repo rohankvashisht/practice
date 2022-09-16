@@ -7,8 +7,8 @@ Chef has taken his first dose of vaccine D days ago. He may take the second dose
 Determine if Chef is too early, too late, or in the correct range for taking his second dose.
 
 Input Format:
-a. First line will contain T, number of testcases. Then the testcases follow.
-b. Each testcase contains of a single line of input, three integers D,L,R.
+a. First line will contain T, number of test cases. Then the test cases follow.
+b. Each test case contains of a single line of input, three integers D,L,R.
 
 
 Output Format:
