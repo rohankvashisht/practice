@@ -64,7 +64,4 @@ for test_case in range(test_cases):
     print(1)
   else :
     print(0)
-    
-    
-    
   
