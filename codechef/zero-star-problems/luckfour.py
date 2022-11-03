@@ -64,6 +64,4 @@ for test_case in range(test_cases):
     number = int(number/10)
   
   print(number_of_fours)
-
-  
   
